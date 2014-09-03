@@ -1,3 +1,5 @@
+// Optional: Using if, else if, and else blocks, write a program which allows two users to each input their moves in "Rock, Paper, Scissors" and which determines the winner (or if a tie occurred).
+
 var player1 = prompt("Player 1, enter your move! Rock, Paper, or Scissors.");
 var player2 = prompt("Player 2, enter your move! Rock, Paper, or Scissors.");
 
